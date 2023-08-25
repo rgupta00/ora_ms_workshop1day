@@ -1,1 +1,542 @@
 2023-08-25 06:45:34,850 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-25 07:01:06,327 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productapp:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/pom.xml.
+2023-08-25 07:01:06,802 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/main/java
+2023-08-25 07:01:06,802 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 07:01:06,804 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 07:01:06,806 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/test/java
+2023-08-25 07:01:07,534 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-08-25 07:01:07,537 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-25 07:01:07,695 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productapp:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/pom.xml.
+2023-08-25 07:01:07,895 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/main/java
+2023-08-25 07:01:07,896 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 07:01:07,896 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 07:01:07,896 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/test/java
+2023-08-25 07:01:08,308 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-08-25 07:01:09,253 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:01:09,253 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:01:09,258 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 07:01:09,274 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 07:01:09,280 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:01:09,280 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:01:09,280 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 07:01:28,535 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:01:28,536 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:01:28,538 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 07:01:28,545 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 07:01:28,549 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:01:28,549 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:01:28,549 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 07:02:00,721 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:02:00,721 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:02:00,721 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 07:02:00,730 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 07:02:00,732 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:02:00,732 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:02:00,732 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 07:02:08,896 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:02:08,896 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:02:08,896 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 07:02:08,903 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 07:02:08,905 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:02:08,905 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:02:08,905 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 07:02:17,423 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:02:17,423 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:02:17,424 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 07:02:17,425 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 07:02:17,428 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:02:17,428 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:02:17,428 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 07:03:02,264 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:03:02,264 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:03:02,265 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 07:03:02,273 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 07:03:02,275 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 07:03:02,275 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 07:03:02,275 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:16:33,464 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productapp:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/pom.xml.
+2023-08-25 10:16:33,612 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.7.15/spring-boot-starter-actuator-2.7.15.pom
+2023-08-25 10:16:33,649 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.7.15/spring-boot-starter-actuator-2.7.15.pom
+2023-08-25 10:16:33,676 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.7.15/spring-boot-actuator-autoconfigure-2.7.15.pom
+2023-08-25 10:16:33,684 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.7.15/spring-boot-actuator-autoconfigure-2.7.15.pom
+2023-08-25 10:16:33,712 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.7.15/spring-boot-actuator-2.7.15.pom
+2023-08-25 10:16:33,725 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.7.15/spring-boot-actuator-2.7.15.pom
+2023-08-25 10:16:33,749 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.9.14/micrometer-core-1.9.14.pom
+2023-08-25 10:16:33,765 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.9.14/micrometer-core-1.9.14.pom
+2023-08-25 10:16:33,784 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.15/spring-boot-devtools-2.7.15.pom
+2023-08-25 10:16:33,793 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.15/spring-boot-devtools-2.7.15.pom
+2023-08-25 10:16:33,825 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.15/spring-boot-devtools-2.7.15.jar
+2023-08-25 10:16:33,841 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.7.15/spring-boot-actuator-autoconfigure-2.7.15.jar
+2023-08-25 10:16:33,841 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.7.15/spring-boot-actuator-2.7.15.jar
+2023-08-25 10:16:33,841 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.7.15/spring-boot-starter-actuator-2.7.15.jar
+2023-08-25 10:16:33,873 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.9.14/micrometer-core-1.9.14.jar
+2023-08-25 10:16:33,874 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.7.15/spring-boot-starter-actuator-2.7.15.jar
+2023-08-25 10:16:33,900 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.15/spring-boot-devtools-2.7.15.jar
+2023-08-25 10:16:33,991 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.7.15/spring-boot-actuator-autoconfigure-2.7.15.jar
+2023-08-25 10:16:33,997 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.7.15/spring-boot-actuator-2.7.15.jar
+2023-08-25 10:16:34,003 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.9.14/micrometer-core-1.9.14.jar
+2023-08-25 10:16:34,231 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/main/java
+2023-08-25 10:16:34,232 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 10:16:34,232 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 10:16:34,233 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/test/java
+2023-08-25 10:16:34,290 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-08-25 10:16:34,291 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-25 10:16:34,360 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productapp:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/pom.xml.
+2023-08-25 10:16:34,428 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/main/java
+2023-08-25 10:16:34,428 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 10:16:34,429 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 10:16:34,429 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/test/java
+2023-08-25 10:16:34,522 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-08-25 10:16:34,898 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:16:34,898 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:16:34,898 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:16:34,906 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:16:34,912 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:16:34,912 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:16:34,912 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:16:35,275 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.7.15/spring-boot-starter-actuator-2.7.15-sources.jar
+2023-08-25 10:16:35,288 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.7.15/spring-boot-starter-actuator-2.7.15-sources.jar
+2023-08-25 10:16:35,289 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-actuator:2.7.15
+2023-08-25 10:16:35,329 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.7.15/spring-boot-actuator-autoconfigure-2.7.15-sources.jar
+2023-08-25 10:16:35,390 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.7.15/spring-boot-actuator-autoconfigure-2.7.15-sources.jar
+2023-08-25 10:16:35,391 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator-autoconfigure:2.7.15
+2023-08-25 10:16:35,427 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.7.15/spring-boot-actuator-2.7.15-sources.jar
+2023-08-25 10:16:35,488 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.7.15/spring-boot-actuator-2.7.15-sources.jar
+2023-08-25 10:16:35,489 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator:2.7.15
+2023-08-25 10:16:35,525 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.9.14/micrometer-core-1.9.14-sources.jar
+2023-08-25 10:16:35,584 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.9.14/micrometer-core-1.9.14-sources.jar
+2023-08-25 10:16:35,586 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-core:1.9.14
+2023-08-25 10:16:35,787 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.15/spring-boot-devtools-2.7.15-sources.jar
+2023-08-25 10:16:35,889 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.15/spring-boot-devtools-2.7.15-sources.jar
+2023-08-25 10:16:35,889 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.7.15
+2023-08-25 10:16:36,153 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:16:36,153 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:16:36,154 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:16:36,154 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:16:36,157 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:16:36,157 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:16:36,157 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:16:57,535 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:16:57,535 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:16:57,536 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:16:57,540 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:16:57,543 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:16:57,543 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:16:57,543 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:17:34,299 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:17:34,299 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:17:34,299 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:17:34,310 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:17:34,312 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:17:34,312 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:17:34,312 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:17:48,412 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:17:48,412 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:17:48,413 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:17:48,424 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:17:48,426 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:17:48,426 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:17:48,426 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:17:57,320 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:17:57,320 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:17:57,320 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:17:57,337 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:17:57,340 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:17:57,340 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:17:57,340 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:18:50,356 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:18:50,357 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:18:50,357 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:18:50,368 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:18:50,371 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:18:50,371 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:18:50,372 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:19:55,023 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:19:55,024 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:19:55,024 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:19:55,036 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:19:55,041 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:19:55,041 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:19:55,041 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:20:12,607 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:20:12,607 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:20:12,607 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:20:12,617 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:20:12,619 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:20:12,619 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:20:12,619 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:20:56,664 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:20:56,664 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:20:56,665 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:20:56,672 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:20:56,674 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:20:56,674 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:20:56,674 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:22:15,440 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:22:15,440 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:22:15,440 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:22:15,451 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:22:15,456 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:22:15,456 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:22:15,456 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:24:59,565 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:24:59,565 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:24:59,565 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:24:59,576 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:24:59,578 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:24:59,578 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:24:59,578 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:25:06,589 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:25:06,589 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:25:06,589 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:25:06,601 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:25:06,604 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:25:06,604 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:25:06,604 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:26:04,571 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:26:04,571 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:26:04,571 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:26:04,593 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:26:04,598 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:26:04,598 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:26:04,598 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:26:40,063 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:26:40,063 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:26:40,063 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:26:40,071 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:26:40,073 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:26:40,073 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:26:40,073 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:29:58,040 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:29:58,040 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:29:58,040 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:29:58,056 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:29:58,061 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:29:58,061 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:29:58,061 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:30:08,696 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:30:08,696 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:30:08,696 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:30:08,704 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:30:08,706 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:30:08,706 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:30:08,706 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:30:26,083 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:30:26,083 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:30:26,083 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:30:26,092 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:30:26,094 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:30:26,095 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:30:26,095 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:31:58,987 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:31:58,987 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:31:58,988 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:31:59,011 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:31:59,015 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:31:59,015 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:31:59,015 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:33:06,271 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:33:06,271 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:33:06,272 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:33:06,286 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:33:06,287 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:33:06,287 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:33:06,287 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:33:54,052 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:33:54,052 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:33:54,052 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:33:54,064 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:33:54,067 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:33:54,067 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:33:54,067 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:34:18,325 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:34:18,325 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:34:18,326 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:34:18,336 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:34:18,341 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:34:18,341 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:34:18,341 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:35:09,880 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:35:09,880 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:35:09,880 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:35:09,892 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:35:09,894 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:35:09,894 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:35:09,894 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:35:31,905 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:35:31,905 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:35:31,905 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:35:31,917 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:35:31,919 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:35:31,919 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:35:31,919 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:36:29,601 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:36:29,601 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:36:29,601 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:36:29,615 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:36:29,618 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:36:29,618 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:36:29,618 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:36:55,569 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:36:55,569 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:36:55,569 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:36:55,582 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:36:55,585 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:36:55,585 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:36:55,585 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:37:51,784 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:37:51,784 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:37:51,785 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:37:51,800 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:37:51,803 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:37:51,803 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:37:51,803 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:39:14,760 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:39:14,760 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:39:14,760 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:39:14,770 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:39:14,771 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:39:14,772 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:39:14,772 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:42:25,787 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:42:25,787 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:42:25,787 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:42:25,800 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:42:25,802 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:42:25,802 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:42:25,802 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:46:38,234 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productapp:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/pom.xml.
+2023-08-25 10:46:38,431 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:46:38,431 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:46:38,433 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:46:38,433 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:46:38,436 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:46:38,436 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:46:38,436 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:46:52,243 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-25 10:46:52,301 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productapp:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/pom.xml.
+2023-08-25 10:46:52,396 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/main/java
+2023-08-25 10:46:52,396 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 10:46:52,396 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productapp/src/main/resources
+2023-08-25 10:46:52,397 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productapp/src/test/java
+2023-08-25 10:46:52,479 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-08-25 10:46:52,713 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:46:52,714 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:46:52,714 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:46:52,721 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:46:52,722 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:46:52,723 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:46:52,723 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:50:55,690 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:50:55,690 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:50:55,691 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:50:55,708 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:50:55,710 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:50:55,711 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:50:55,711 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:53:17,980 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productapp:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/pom.xml.
+2023-08-25 10:53:18,132 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:53:18,132 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:53:18,134 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:53:18,134 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:53:18,137 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:53:18,137 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:53:18,137 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp/src/test/resources
+2023-08-25 10:54:01,572 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-25 10:54:08,464 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [340])
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/aether-connector-okhttp-0.17.8.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/commons-lang3-3.8.1.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/guice-4.2.2-no_aop.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/jansi-2.4.0.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-artifact-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-builder-support-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-compat-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-core-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-embedder-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-model-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-model-builder-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-plugin-api-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-repository-metadata-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-api-1.6.3.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-connector-basic-1.6.3.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-impl-1.6.3.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-provider-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-spi-1.6.3.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-transport-wagon-1.6.3.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-util-1.6.3.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-settings-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-settings-builder-3.8.7.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-shared-utils-3.3.4.jar
+2023-08-25 10:54:08,470 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/okhttp-3.14.1.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/okio-1.17.3.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/org.eclipse.sisu.inject-0.3.5.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-build-api-0.0.7.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-cipher-2.0.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-classworlds-2.6.0.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-component-annotations-2.1.0.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-interpolation-1.26.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-sec-dispatcher-2.0.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-utils-3.3.1.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/wagon-file-3.5.3.jar
+2023-08-25 10:54:08,471 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/wagon-provider-api-3.5.3.jar
+2023-08-25 10:54:08,472 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2023-08-25 10:54:08,472 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/com.google.guava_31.1.0.jre.jar
+2023-08-25 10:54:08,473 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [573])
+2023-08-25 10:54:08,473 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/slf4j.api_1.7.36.jar
+2023-08-25 10:54:08,473 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2023-08-25 10:54:08,474 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2023-08-25 10:54:08,474 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2023-08-25 10:54:08,474 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/javax.annotation_1.3.5.v20221203-1659.jar
+2023-08-25 10:54:08,474 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2023-08-25 10:54:08,475 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-08-25 10:54:08,475 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2023-08-25 10:54:08,475 [Worker-50: Launching productapp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/raj/Desktop/TOOLS/tools/spring-tool-suite-4-4.18.0/sts-4.18.0.RELEASE/plugins/com.google.guava.failureaccess_1.0.1.jar
+2023-08-25 10:54:08,477 [Worker-50: Launching productapp] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/raj/Documents/ora_ms_workshop1day/workshopcode/productapp":
+2023-08-25 10:54:08,477 [Worker-50: Launching productapp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2023-08-25 10:58:11,904 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productapp:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 10:58:12,119 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:58:12,119 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:58:12,119 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:58:12,130 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:58:12,133 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:58:12,133 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:58:12,133 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 10:58:26,623 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 10:58:26,780 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:58:26,780 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:58:26,783 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 10:58:26,794 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:58:26,799 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:58:26,799 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:58:26,799 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 10:58:33,612 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 10:58:33,751 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:58:33,751 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:58:33,752 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:58:33,752 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:58:33,753 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:58:33,754 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:58:33,754 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 10:59:19,204 [Worker-55: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 10:59:19,547 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:59:19,547 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:59:19,549 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:59:19,549 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:59:19,552 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:59:19,552 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:59:19,552 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 10:59:19,555 [Worker-55: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of productappweb
+2023-08-25 10:59:19,555 [Worker-55: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for productappweb
+2023-08-25 10:59:51,956 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 10:59:52,091 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:59:52,092 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:59:52,093 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:59:52,093 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 10:59:52,095 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 10:59:52,095 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 10:59:52,095 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 10:59:52,095 [Worker-53: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of productappweb
+2023-08-25 10:59:52,095 [Worker-53: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for productappweb
+2023-08-25 11:00:01,688 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 11:00:02,009 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:00:02,009 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:00:02,012 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:00:02,013 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:00:02,017 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:00:02,017 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:00:02,017 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:00:02,017 [Worker-52: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of productappweb
+2023-08-25 11:00:02,017 [Worker-52: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for productappweb
+2023-08-25 11:02:39,261 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 11:02:39,454 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productappweb/src/main/java
+2023-08-25 11:02:39,454 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productappweb/src/main/resources
+2023-08-25 11:02:39,454 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productappweb/src/main/resources
+2023-08-25 11:02:39,455 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productappweb/src/test/java
+2023-08-25 11:02:39,923 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-08-25 11:02:39,924 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-25 11:02:39,984 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 11:02:40,084 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productappweb/src/main/java
+2023-08-25 11:02:40,084 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productappweb/src/main/resources
+2023-08-25 11:02:40,084 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productappweb/src/main/resources
+2023-08-25 11:02:40,084 [Worker-57: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productappweb/src/test/java
+2023-08-25 11:02:40,265 [Worker-57: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for productappweb
+2023-08-25 11:02:40,270 [Worker-57: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-08-25 11:02:40,581 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:02:40,581 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:02:40,581 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 11:02:40,590 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:02:40,592 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:02:40,593 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:02:40,593 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:02:40,593 [Worker-60: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of productappweb
+2023-08-25 11:02:40,593 [Worker-60: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for productappweb
+2023-08-25 11:03:11,818 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 11:03:11,931 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:03:11,931 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:03:11,932 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:03:11,932 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:03:11,935 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:03:11,935 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:03:11,935 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:03:11,935 [Worker-53: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of productappweb
+2023-08-25 11:03:11,935 [Worker-53: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for productappweb
+2023-08-25 11:03:28,398 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:03:28,398 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:03:28,399 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 11:03:28,418 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:03:28,420 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:03:28,420 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:03:28,420 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:03:41,372 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:03:41,372 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:03:41,372 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 11:03:41,381 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:03:41,384 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:03:41,384 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:03:41,384 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:04:22,809 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:04:22,809 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:04:22,809 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 11:04:22,821 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:04:22,822 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:04:22,822 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:04:22,822 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:04:25,898 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:04:25,899 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:04:25,899 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 11:04:25,909 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:04:25,911 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:04:25,911 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:04:25,911 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:05:02,069 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:05:02,069 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:05:02,069 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-08-25 11:05:02,076 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:05:02,078 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:05:02,078 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:05:02,078 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:06:01,485 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 11:06:01,592 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:06:01,592 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:06:01,594 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:06:01,594 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:06:01,596 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:06:01,596 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:06:01,596 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:06:01,596 [Worker-53: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of productappweb
+2023-08-25 11:06:01,596 [Worker-53: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for productappweb
+2023-08-25 11:06:07,738 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-08-25 11:06:35,852 [Worker-60: Launching productappweb] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb":
+2023-08-25 11:06:35,852 [Worker-60: Launching productappweb] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2023-08-25 11:20:09,897 [Worker-64: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.productapp:productappweb:0.0.1-SNAPSHOT @ /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/pom.xml.
+2023-08-25 11:20:10,003 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:20:10,003 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:20:10,006 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:20:10,006 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-08-25 11:20:10,009 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-08-25 11:20:10,009 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-08-25 11:20:10,009 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raj/Documents/ora_ms_workshop1day/workshopcode/productappweb/src/test/resources
+2023-08-25 11:20:10,009 [Worker-64: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of productappweb
+2023-08-25 11:20:10,009 [Worker-64: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for productappweb

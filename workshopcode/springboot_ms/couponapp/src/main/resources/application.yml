@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: coupon-service
+server:
+  port: 8085
+  servlet:
+    context-path: /couponapp

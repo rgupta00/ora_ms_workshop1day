@@ -1,0 +1,43 @@
+
+endpoints:
+---------------
+
+Get:
+
+http://localhost:8082/productapp/products/1
+http://localhost:8081/customerapp/customers/1
+http://localhost:8085/couponapp/coupons/SUP100
+
+
+
+Post:
+
+http://localhost:8080/orderapp/orders
+
+{
+
+    "productId":1,
+    "customerId":2,
+    "couponCode":"SUP10",
+    "qty":2
+}
+
+
+Response:
+------------
+{
+    "id": "a58f678c-f2f5-4a2f-bf2f-5a0f888bbd16",
+    "totalPrice": 198000.0,
+    "orderDate": "2023-08-25T07:21:34.274+00:00",
+    "customer": {
+        "id": 2,
+        "name": "rajat",
+        "email": "rajat@gmail.com"
+    },
+    "product": {
+        "id": 1,
+        "name": "dell laptop",
+        "price": 110000.0
+    }
+}
+
