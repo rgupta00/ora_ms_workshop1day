@@ -2,6 +2,7 @@ package com.orderapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
@@ -12,7 +13,8 @@ public class OrderappApplication {
 		SpringApplication.run(OrderappApplication.class, args);
 	}
 	
-	//What is restTemplate: 
+	//What is restTemplate:
+	@LoadBalanced
 	@Bean
 	public RestTemplate restTemplate() {
 		return new RestTemplate();

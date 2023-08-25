@@ -17,6 +17,9 @@ import com.orderapp.dto.Customer;
 import com.orderapp.dto.OrderRequest;
 import com.orderapp.dto.OrderResponse;
 import com.orderapp.dto.Product;
+import com.orderapp.service.CouponClientService;
+import com.orderapp.service.CustomerClientService;
+import com.orderapp.service.ProductClientService;
 
 @RestController
 public class OrderController {
@@ -24,25 +27,27 @@ public class OrderController {
 	@Autowired
 	private RestTemplate restTemplate;
 	
+	@Autowired
+	private CouponClientService couponClientService;
+	
+	@Autowired
+	private ProductClientService productClientService;
+	
+	@Autowired
+	private CustomerClientService customerClientService;
 	
 	//i want to create a post method ....
 	@PostMapping(path = "orders")
 	public ResponseEntity<OrderResponse> bookOrder(@RequestBody  OrderRequest orderRequest) {
 		
 		//call coupon service 
-		Coupon coupon=restTemplate
-				.getForObject("http://localhost:8085/couponapp/coupons/"+
-							orderRequest.getCouponCode(), Coupon.class);
+		Coupon coupon=couponClientService.getCoupon(orderRequest);
 		
 		
 		//call product
-		Product product=restTemplate
-				.getForObject("http://localhost:8082/productapp/products/"+
-							orderRequest.getProductId(), Product.class);
+		Product product=productClientService.getProduct(orderRequest);
 		//call customer
-		Customer customer=restTemplate
-				.getForObject("http://localhost:8081/customerapp/customers/"+
-							orderRequest.getCustomerId(), Customer.class);
+		Customer customer=customerClientService.getCustomer(orderRequest);
 		
 		//we need to create the order and asyn rabbitMQ ...
 		

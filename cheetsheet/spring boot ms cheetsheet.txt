@@ -152,6 +152,31 @@ Response:
 
 
 
+Try the code
+-----------------
+git it form git repo
+
+https://github.com/rgupta00/ora_ms_workshop1day.git
+
+2:30PM
+----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
